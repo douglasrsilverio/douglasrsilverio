@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Douglas.
-- 👀 Gosto de programação e busco aprimorar meus conhecimentos.
+- 👀 Gosto de programação e busco aprimorar meus conhecimentos a cada dia.
 - 🌱 Atualmente estou estudando Java, Kotlin, Android, JSF, Testes Unitários e SQL.
 
 <!---
