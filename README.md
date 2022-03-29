@@ -6,6 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Douglas-TI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Douglas-TI)](https://github.com/anuraghazra/github-readme-stats)
+
+Atualmente estou estudando Java, Kotlin, Android, Testes Unitários e SQL.
+
 
 
 <!---
