@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Douglas.
 - 👀 Busco aprimorar meus conhecimentos a cada dia.
-- 🌱 Atualmente estou estudando Java, Kotlin, Android, JSF, Testes Unitários e SQL.
+- 🌱 Atualmente estou estudando Java, Kotlin, Android, Testes Unitários e SQL.
 
 <!---
 Douglas-TI/Douglas-TI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
