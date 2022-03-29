@@ -2,7 +2,7 @@
 - 👀 Busco aprimorar meus conhecimentos a cada dia.
 - 🌱 Atualmente estou estudando Java, Kotlin, Android, Testes Unitários e SQL.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-TI)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-TI&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
