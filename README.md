@@ -1,6 +1,6 @@
-<h4> <b> Atualmente estudando Java, Kotlin, Android, Testes Unitários, SQL e algumas bibliotecas. 
+<h4> <b> Atualmente estou estudando Java, Kotlin, Android, Testes Unitários e SQL. 
 <br/>
-Também aperfeiçoando as boas práticas de programação <b/> <h4/>
+Fazendo uso das boas práticas e seguindo os conselhos do Uncle Bob 🤓. <b/> <h4/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Douglas-TI&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
